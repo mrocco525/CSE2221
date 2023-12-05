@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expression>
+  <plus>
+    <times>
+      <minus>
+        <number value="9" />
+        <number value="8" />
+      </minus>
+      <number value="4" />
+    </times>
+    <divide>
+      <number value="4" />
+      <divide>
+        <number value="4" />
+        <number value="2" />
+      </divide>
+    </divide>
+  </plus>
+</expression>
